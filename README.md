@@ -36,6 +36,4 @@ vision-analyzer/
 │── assets/                 # Optional: Include images or resources here
 │── .gitignore              # Specifies files/folders to ignore (e.g., .env)
 
-## Clone repo
-- git clone https://github.com/your-username/vision-analyzer.git
-cd vision-analyzer
+
